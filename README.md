@@ -34,7 +34,7 @@
 
 - 📫 Feel free to reach me out **mohamed@ibtekar.ae**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [mohammedmatarx](https://discordapp.com/users/mohammedmatarx) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [mohammed_matar](https://discord.gg/dfda9dgu) my username!
 <!--Intro end-->
 
 
