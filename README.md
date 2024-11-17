@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **I'm currently learning to architect scalable applications using advanced tech stacks. My focus is on integrating Large Language Models (LLMs) to enhance application capabilities and performance.**
 
-- 💬 Ask me about **Angular, docker, ci&cd, react, react-native, nodejs, SpringBoot, Laravel, Payments Gateways(Stripe, LemonSqueezy)**
+- 💬 Ask me about **Angular, docker, ci&cd, react, react-native, nodejs, SpringBoot, Laravel, Payments Gateways(Stripe, LemonSqueezy), HunterXHunter, Anime, Manha, Valorant**
 
 - 📫 Feel free to reach me out **mohamed@ibtekar.ae**
 
