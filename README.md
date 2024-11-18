@@ -46,7 +46,8 @@
 <tr border="none">
 <td width="50%" align="center">
   <br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmatar&theme=dark&hide_border=false" /> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammedmatar&theme=dark&locale=ar" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammedmatar&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 </td>
 
 </tr>
